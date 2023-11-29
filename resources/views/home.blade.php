@@ -1,17 +1,9 @@
-
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-</head>
-<body>
-    
-</body>
+@extends('layout.app')
+@section('appContents')
 <h1 class="p-2 m-2">Home</h1>
     <p class="p-2 m-2">On 27 February 2002, a train with several hundred passengers burned near Godhra, killing approximately 60 people.[k][115] The train carried a large number of Hindu pilgrims who were returning from Ayodhya after a religious ceremony at the site of the demolished Babri Masjid.[116][117] In a public statement, Modi said local Muslims were responsible for the incident.[8][116][118] The next day, the Vishwa Hindu Parishad called for a bandh (general strike) across the state.[119][120] Riots began during the bandh and anti-Muslim violence spread through Gujarat.[116][119][120] The government's decision to move the bodies of the train victims from Godhra to Ahmedabad further inflamed the violence.</p>
     <p class="p-2 m-2">Hindus were killed during the riots;[117] independent sources put the death toll at over 2,000,[116][115][122] the vast majority of them Muslims.[115] Approximately 150,000 people were driven to refugee camps.[123] Numerous women and children were among the victims; the violence included mass rapes and mutilation of women</p>
     <p class="p-2 m-2">Scholars consider the Government of Gujarat to have been complicit in the riots,[8][125] and it has received much criticism for its handling of the situation;[126] some scholars explicitly blame Modi.[7][127][128] The Modi government imposed a curfew in 26 major cities, issued shoot-at-sight orders and called for the army to patrol the streets; these measures failed to prevent the violence from escalating.[119][120] The president of the state unit of the BJP expressed support for the bandh despite such actions being illegal at the time </p>
     <p class="p-2 m-2">Modi's personal involvement in the 2002 events has continued to be debated. During the riots, he said, "What is happening is a chain of action and reaction".[7] Later in 2002, Modi said the way in which he had handled the media was his only regret regarding the episode.[135] In March 2008, the Supreme Court of India reopened several cases related to the riots, including that of the Gulbarg Society massacre, and established a Special Investigation Team (SIT) to look into the issue.[126][136][137] In response to a petition from Zakia Jafri, the widow of Ehsan Jafri, who was killed in the Gulbarg Society massacre, in April 2009, the court also asked the SIT to investigate Modi's complicity in the killings.[136] The SIT questioned Modi in March 2010; in May, it presented to the court a report finding no evidence against him.[136][138] In July 2011, the court-appointed amicus curiae Raju Ramachandran submitted his final report to the court. Contrary to the SIT's position, Ramachandran said Modi could be prosecuted based on the available evidence.[139][140] The Supreme Court sent the matter to the magistrate's court.</p>
     <p class="p-2 m-2">The SIT examined Ramachandran's report, and in March 2012 submitted its final report, asking for the case to be closed. Zakia Jafri filed a protest petition in response. In December 2013, the magistrate's court rejected the protest petition, accepting the SIT's finding there was no evidence against Modi.[141] In 2022, the Supreme Court dismissed a petition by Zakia Jafri in which she challenged the clean chit given to Modi in the riots by the SIT, and upheld previous rulings that no evidence against him was found.[142][</p>
+    @endsection
